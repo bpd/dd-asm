@@ -1,0 +1,10 @@
+DDmini Assembler
+
+Generates microcode ROM image for the DDmini data path
+
+usage: dda [-r] infile [outfile]
+
+options:
+  -r   raw image (default is logisim binary format)
+
+outfile defaults to stdout
